@@ -84,11 +84,10 @@ Learn more in the official Vite docs: [https://vitejs.dev/guide/](https://vitejs
 
 ---
 
-## Owner
+## **Owner**
 
-Developed and maintained by **Amna Mohsin**
-For collaboration or inquiries, connect on
-🔗 LinkedIn: [https://www.linkedin.com/in/amna-m98/](https://www.linkedin.com/in/amna-m98/)
+* Developed and maintained by **Amna Mohsin**
+* For collaborations or inquiries, connect on [LinkedIn](https://www.linkedin.com/in/amna-m98/)
 
 ---
 
