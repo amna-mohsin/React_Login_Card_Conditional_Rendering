@@ -96,6 +96,3 @@ Learn more in the official Vite docs: [https://vitejs.dev/guide/](https://vitejs
 This project is **open-source** and free to use.
 
 ```
-
-Just tell me!
-```
